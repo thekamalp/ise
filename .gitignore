@@ -9,3 +9,4 @@
 /.vs/ise/v16/Browse.VC.opendb
 /.vs/ProjectSettings.json
 /.vs/slnx.sqlite
+/lib/*.lib
